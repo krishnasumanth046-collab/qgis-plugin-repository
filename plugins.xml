@@ -20,7 +20,7 @@
 
     <file_name>RoadNameStandardizer-1.0.zip</file_name>
 
-    <icon>https://github.com/krishnasumanth046-collab/qgis-plugin-repository/blob/main/icon.png</icon>
+    <icon><icon>https://raw.githubusercontent.com/krishnasumanth046-collab/qgis-plugin-repository/main/icon.png</icon></icon>
 
     <author_name>OpenAI</author_name>
 
