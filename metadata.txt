@@ -1,7 +1,0 @@
-[general]
-name=Road Name Standardizer
-description=Standardize road names from labels or OCR
-version=1.0
-qgisMinimumVersion=3.0
-author=krishna
-email=krishnasumanth046@gmail.com
