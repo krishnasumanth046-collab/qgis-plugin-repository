@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="2.0" encoding="UTF-8"?>
 <plugins>
   <pyqgis_plugin
       name="RoadNameStandardizer"
-      version="1.0"
+      version="2.0"
       plugin_id="RoadNameStandardizer">
 
     <description>
@@ -10,20 +10,20 @@
     </description>
 
     <about>
-      Standardizes road names using nearby labels and OCR.
+      Standardize road names from labels or OCRs and Road names are updated from labels
     </about>
 
-    <version>1.0</version>
+    <version>2.0</version>
 
     <qgis_minimum_version>3.0</qgis_minimum_version>
 
     <author_name>krishna</author_name>
 
     <download_url>
-      https://raw.githubusercontent.com/krishnasumanth046-collab/qgis-plugin-repository/main/RoadNameStandardizer-1.0.zip
+      https://raw.githubusercontent.com/krishnasumanth046-collab/qgis-plugin-repository/main/RoadNameStandardizer-1.1.zip
     </download_url>
 
-    <file_name>RoadNameStandardizer-1.0.zip</file_name>
+    <file_name>RoadNameStandardizer-1.1.zip</file_name>
 
     <icon>
       https://raw.githubusercontent.com/krishnasumanth046-collab/qgis-plugin-repository/main/icon.png
